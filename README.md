@@ -1,0 +1,10 @@
+graph LR
+A[Inventario de activos] --> B[Evaluación y clasificación]
+B --> C[Documentación y metadatos]
+C --> D[Almacenamiento y gestión de versiones]
+D --> E[Control de accesos y permisos]
+E --> F[Mantenimiento y actualizaciones]
+F --> G[Seguridad y protección]
+G --> H[Gestión del ciclo de vida]
+H --> I[Monitoreo y métricas]
+I --> J[Auditorías y revisión]
